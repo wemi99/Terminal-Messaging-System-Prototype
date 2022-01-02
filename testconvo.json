@@ -1,0 +1,24 @@
+{
+  "text history": [
+    {
+      "sent_by": "user2",
+      "text": "how about you"
+    },
+    {
+      "sent_by": "user2",
+      "text": "nothing"
+    },
+    {
+      "sent_by": "user1",
+      "text": "what's up"
+    },
+    {
+      "sent_by": "user2",
+      "text": "howdy"
+    },
+    {
+      "sent_by": "user1",
+      "text": "hello there"
+    }
+  ]
+}

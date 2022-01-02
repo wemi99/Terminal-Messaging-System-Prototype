@@ -1,0 +1,9 @@
+Note to grader: although the [transition st] function in main.ml 
+is over the 20 line limit, we believe this function is an exception. 
+It is only long because of the extensive pattern matching it must perform on
+each command, as well as the matching it must perform on each exception. 
+Because the exception matching was wrapped inside the with portion of the 
+try-with statement, it was difficult to put all the exception handling into a 
+helper function. However, we have made this function as readable as possible 
+with the use of many helper functions. The same reasoning can be applied to 
+[parse] in Command. 

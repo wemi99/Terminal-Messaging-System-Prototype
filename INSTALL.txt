@@ -1,0 +1,15 @@
+Run "opam install ppx_deriving_yojson" in the terminal.
+Run "make build" to build the program
+Type "make ims" to start the program. 
+
+This program is a text messaging service, which allows users to create accounts,
+send friends requests, and have conversations with one another.
+
+To get started, type /help to quickly learn all the key commands.
+Sign up with a new username. 
+
+The login details json file holds all information regarding pre-existing
+accounts. 
+
+After signing in, you can send friend requests to other users, accept/deny
+requests, and send messages back and forth.
